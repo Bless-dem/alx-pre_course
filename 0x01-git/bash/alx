@@ -1,7 +1,5 @@
 
-
-
 #!/bin/bash
-echo "ALXX School"
+echo "ALX School"
 
 
